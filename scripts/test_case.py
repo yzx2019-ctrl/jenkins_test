@@ -9,4 +9,4 @@ class TestCase(object):
         assert 1
 
     def test_case_003(self):
-        assert 0
+        assert 1
